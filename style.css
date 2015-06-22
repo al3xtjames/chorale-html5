@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+.footer{
+    background-color:lightgrey;
+    text-align:left;
+    font-size:2.0vh;
+    position:fixed;
+    bottom:0;
+    width:100%;
+    height:6vh;
+}
+#twitterimage{
+    width:5vh;
+    float:right;
+    align-self:center;
+}
+#facebookimage{
+    width:5vh;
+    float:right;
+    align-self:center;
+}
