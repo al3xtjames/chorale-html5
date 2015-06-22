@@ -1,8 +1,9 @@
 body{
     background-color:black;
+    color:white;
 }
 .footer{
-    background-color:lightgrey;
+    background-color:dimgrey;
     text-align:left;
     font-size:2.0vh;
     position:fixed;
